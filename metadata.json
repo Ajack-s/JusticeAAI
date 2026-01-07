@@ -1,0 +1,7 @@
+{
+  "name": "JusticeAI - Workplace Safety & Documentation",
+  "description": "A trauma-aware, anonymous workplace safety tool for documenting and contextualizing workplace injustices in Kenya with AI-guided legal education and a secure local vault.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
